@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T13:08:37.048Z",
+  "generated_at": "2026-11-05T13:20:27.327Z",
   "items": {
     "math:1": {
       "kind": "math",
@@ -72,6 +72,19 @@
       "path": "math/0454-bayesian-linear-regression-posterior-and-posterior-predictive",
       "first_solved_at": "2026-11-05T13:08:01.971Z",
       "last_pushed_at": "2026-11-05T13:08:01.971Z"
+    },
+    "lab:18": {
+      "kind": "lab",
+      "id": "18",
+      "title": "Train a Linear Regression Model",
+      "difficulty": "easy",
+      "category": "Regression",
+      "url": "https://www.deep-ml.com/labs/18",
+      "path": "labs/0018-train-a-linear-regression-model",
+      "first_solved_at": "2026-11-05T13:19:52.346Z",
+      "last_pushed_at": "2026-11-05T13:19:52.346Z",
+      "language": "python",
+      "lines": 34
     }
   }
 }
